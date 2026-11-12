@@ -48,7 +48,6 @@ Clientes e produtos usam exclusão lógica. As migrations criam as tabelas, chav
 .
 |-- README.md
 |-- documentacao.md
-|-- banco.png
 |-- .postman/
 |   `-- resources.yaml
 |-- postman/
