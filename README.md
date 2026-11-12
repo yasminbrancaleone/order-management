@@ -73,7 +73,6 @@ Use essas contas somente em ambiente local. Antes de qualquer implantação, alt
 .
 ├── README.md
 ├── documentacao.md
-├── banco.png
 ├── .postman/
 │   └── resources.yaml
 ├── postman/
